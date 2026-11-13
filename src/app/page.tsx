@@ -4,7 +4,7 @@ function page() {
   return (
     <div>
       Page NoT Found
-    </div>s
+    </div>
   )
 }
 
